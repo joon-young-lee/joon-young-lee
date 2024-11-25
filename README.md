@@ -1,6 +1,6 @@
 I’m @joon-young-lee
 I major physics and I am interested in computational astrophysics.
-Especially I would like to explore compact objects such as neutron stars and black holes.
+Especially I would like to explore the dynamcis of compact objects.
 Additionaly I would like to find out how these objects consist our universe in a cosmological view.
 
 <!---
